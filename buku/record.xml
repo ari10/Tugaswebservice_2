@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<data>
+  <record>
+    <judul>Laskar Pelangi</judul>
+    <pengarang>Andrea Hirata</pengarang>
+    <penerbit>Bentang Pustaka</penerbit>
+    <date>
+      <bulan>Juli</bulan>
+      <tahun>2006</tahun>
+    </date>
+    </record>
+
+	<record>
+    <judul>Mahakarya</judul>
+    <pengarang>Sulastri</pengarang>
+    <penerbit>PT Wahana</penerbit>
+    <date>
+      <bulan>April</bulan>
+      <tahun>1990</tahun>
+    </date>
+    </record>
+    
+    <record>
+    <judul>Habis malam terbitlah siang</judul>
+    <pengarang>Ari</pengarang>
+    <penerbit>Toko Buku</penerbit>
+    <date>
+      <bulan>April</bulan>
+      <tahun>2017</tahun>
+    </date>
+    </record>
+	
+     <record>
+    <judul>Semangka</judul>
+    <pengarang>Yugianto</pengarang>
+    <penerbit>PT Wahana</penerbit>
+    <date>
+      <bulan>Juni</bulan>
+      <tahun>2001</tahun>
+    </date>
+    </record>
+    
+     <record>
+    <judul>Sang Pemimpi</judul>
+    <pengarang>Andrea Hirata</pengarang>
+    <penerbit>Bentang Pustaka</penerbit>
+    <date>
+      <bulan>Juli</bulan>
+      <tahun>2006</tahun>
+    </date>
+    </record>
+</data>
